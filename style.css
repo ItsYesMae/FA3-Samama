@@ -1,0 +1,32 @@
+body{ 
+     background-image:url('Friend_Group.png');
+	 background-size: cover;
+	 background-repeat: no-repeat;
+	 background-attachment:fixed;
+	 background-position:center center;
+}
+h1{ 
+   text-align:center;
+   background-color:#E6E6FA;
+   font-family:'Times New Roman';
+   border: 2px dotted blue;
+   padding: 10px 15px;
+   width: 250 px;
+   margin-bottom: 20 px;
+}
+p{
+	text-align: justify;
+	background-color: hsl(0, 0%, 100%);
+	font-style: italic;
+	padding:20px;
+	border: 3px solid black;
+	border-style:ridge;
+	width: 500px;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(0, 51, 102); 
+    margin: 2px 5px 2px 5px; 
+}
+   
